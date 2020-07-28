@@ -1,11 +1,11 @@
 {
   "categorias": [
     {
-      "titulo": "Se Liga na Educação",
+      "titulo": "Ciências da Natureza - Ciclo 1",
       "link": "https://www.youtube.com/watch?v=sk5g8T7pY8M&list=PLiyVG7yUlUjOs-3L2iso3OyZD703MpMAE&index=2&t=6548s",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "AULAS DO 3° Ano do Ensino Médio",
+        "text": "Aulas o 3° Ano do Ensino Médio",
         "url": "https://estudeemcasa.educacao.mg.gov.br/se-liga-na-educacao"
       },
       "videos": [
@@ -22,55 +22,47 @@
           "url": "https://www.youtube.com/watch?v=tRtDw20LvK8&list=PLiyVG7yUlUjOs-3L2iso3OyZD703MpMAE&index=10"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "Semana 4 - Química",
+          "url": "https://www.youtube.com/watch?v=QAvBPNOAZGc&list=PLiyVG7yUlUjOs-3L2iso3OyZD703MpMAE&index=15"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "Semana 5 - Física",
+          "url": "https://www.youtube.com/watch?v=UIpHS85iplM&list=PLiyVG7yUlUjOs-3L2iso3OyZD703MpMAE&index=20"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
-        },
-        {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
-        },
-        {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-        }        
+          "titulo": "Semana 6 - Acolhimento Semana II",
+          "url": "https://www.youtube.com/watch?v=j7qKW53o0T4&list=PLiyVG7yUlUjOs-3L2iso3OyZD703MpMAE&index=25"
+        }   
       ]
     },
     {
-      "titulo": "Back End",
+      "titulo": "Ciências da Natureza - Ciclo 2",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
+        "text": "AULAS do 3° Ano do Ensino Médio",
+        "url": "https://estudeemcasa.educacao.mg.gov.br/se-liga-na-educacao"
       },
       "videos": [
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          "titulo": "Semana 1 - Ciclo 2",
+          "url": "https://www.youtube.com/watch?v=twfeFPCLv3s&list=PLiyVG7yUlUjOs-3L2iso3OyZD703MpMAE&index=30"
         },
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+          "titulo": "Semana 1 - Ciclo 2",
+          "url": "https://www.youtube.com/watch?v=twfeFPCLv3s&list=PLiyVG7yUlUjOs-3L2iso3OyZD703MpMAE&index=30"
         },
         {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+          "titulo": "Semana 2 - Ciclo 2 - Química",
+          "url": "https://www.youtube.com/watch?v=erc5aAH6apY&list=PLiyVG7yUlUjOs-3L2iso3OyZD703MpMAE&index=35"
         },
         {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
-        }, 
+          "titulo": "Semana 3 - Ciclo 2 - Física",
+          "url": "https://www.youtube.com/watch?v=8iJw3Pj6cwk&list=PLiyVG7yUlUjOs-3L2iso3OyZD703MpMAE&index=40"
+        },
         {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
-        }
+          "titulo": "Semana 4 - Ciclo 2 - Química",
+          "url": "https://www.youtube.com/watch?v=SihEWec3U_A&list=PLiyVG7yUlUjOs-3L2iso3OyZD703MpMAE&index=45"
+        }  
       ]
     },
     {

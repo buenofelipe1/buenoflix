@@ -11,8 +11,15 @@ function Footer() {
         Orgulhosamente criado durante a
         {' '}
         <a href="https://www.alura.com.br/">
-          Imersão React da Alura
+          Imersão React da Alura. Valeu Pessoal !!
         </a>
+      </p>
+      <p>Produzido por 
+        {' '}
+        <a href="https://https://buenoinformatica.000webhostapp.com/?fbclid=IwAR0cEEXc3pMsE_7xJEtghQ172ha-oCSineS5P3hEy5TcHStwCkvbldPPgA0 ">
+        Felipe Bueno 
+        </a>
+      
       </p>
     </FooterBase>
   );
