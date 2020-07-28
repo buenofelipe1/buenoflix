@@ -4,7 +4,9 @@ import './index.css';
 import App from './App';
 
 import { BrowserRouter, Switch, Route   } from 'react-router-dom'; 
-const Pagina404 = ()=> (<div>Pagina 404</div>)
+
+import Pagina404 from './components/Pages';
+
 
 ReactDOM.render(
   <BrowserRouter>
