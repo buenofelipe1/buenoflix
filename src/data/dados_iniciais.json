@@ -1,25 +1,25 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
-      "link": "https://www.alura.com.br/formacao-front-end",
+      "titulo": "Se Liga na Educação",
+      "link": "https://www.youtube.com/watch?v=sk5g8T7pY8M&list=PLiyVG7yUlUjOs-3L2iso3OyZD703MpMAE&index=2&t=6548s",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "AULAS DO 3° Ano do Ensino Médio",
+        "url": "https://estudeemcasa.educacao.mg.gov.br/se-liga-na-educacao"
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "Semana 1 Ciências da Natureza",
+          "url": "https://www.youtube.com/watch?v=sk5g8T7pY8M&list=PLiyVG7yUlUjOs-3L2iso3OyZD703MpMAE&index=2&t=6548s"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "Semana 2",
+          "url": "https://www.youtube.com/watch?v=qoBuHp8ppTw&list=PLiyVG7yUlUjOs-3L2iso3OyZD703MpMAE&index=8"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "Semana 3",
+          "url": "https://www.youtube.com/watch?v=tRtDw20LvK8&list=PLiyVG7yUlUjOs-3L2iso3OyZD703MpMAE&index=10"
         },
         {
           "titulo": "Pare de chutar e aprenda a display: inline #01",
@@ -148,25 +148,6 @@
         {
           "titulo": "Pokémon Let's Go Pikachu/Eevee",
           "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
-        }
-      ]
-    },
-    {
-      "titulo": "Music",
-      "cor": "orange",
-      "videos": [
-        {
-          "titulo": "",
-          "url": ""
-        },
-        {
-          "titulo": "Rap",
-          "url": "https://www.youtube.com/watch?v=plkWn9bLk6U"
-        },
-        
-        {
-          "titulo": "Feitiço ",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
         }
       ]
     },
