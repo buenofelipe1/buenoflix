@@ -11,12 +11,13 @@ function Footer() {
         Orgulhosamente criado durante a
         {' '}
         <a href="https://www.alura.com.br/">
-          Imersão React da Alura. Valeu Pessoal !!
+          Imersão React da Alura. 
         </a>
+        <p>  Valeu Pessoal !!</p>
       </p>
       <p>Produzido por 
         {' '}
-        <a href="https://https://buenoinformatica.000webhostapp.com/?fbclid=IwAR0cEEXc3pMsE_7xJEtghQ172ha-oCSineS5P3hEy5TcHStwCkvbldPPgA0 ">
+        <a href="https://www.facebook.com/Bueno-Inform%C3%A1tica-110271383958003/?ref=aymt_homepage_panel&eid=ARCIe9r1tbIqCsmVeOGOAFaHTF8OTcV7Po91hd-MxKYoTl-6t9O8i6Kn4vega_dpMRdNpoazLNtDFGy4">
         Felipe Bueno 
         </a>
       
