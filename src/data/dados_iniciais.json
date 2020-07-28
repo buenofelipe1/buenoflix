@@ -100,7 +100,7 @@
       ]
     },
     {
-      "titulo": "Filmes",
+      "titulo": "Music",
       "cor": "orange",
       "videos": [
         {
@@ -148,6 +148,25 @@
         {
           "titulo": "Pokémon Let's Go Pikachu/Eevee",
           "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+        }
+      ]
+    },
+    {
+      "titulo": "Music",
+      "cor": "orange",
+      "videos": [
+        {
+          "titulo": "",
+          "url": ""
+        },
+        {
+          "titulo": "Rap",
+          "url": "https://www.youtube.com/watch?v=plkWn9bLk6U"
+        },
+        
+        {
+          "titulo": "Feitiço ",
+          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
         }
       ]
     },
