@@ -13,14 +13,14 @@ function Footer() {
         <a href="https://www.alura.com.br/">
           Imersão React da Alura. 
         </a>
-        <p>  Valeu Pessoal !!</p>
+        
       </p>
       <p>Produzido por 
         {' '}
         <a href="https://www.facebook.com/Bueno-Inform%C3%A1tica-110271383958003/?ref=aymt_homepage_panel&eid=ARCIe9r1tbIqCsmVeOGOAFaHTF8OTcV7Po91hd-MxKYoTl-6t9O8i6Kn4vega_dpMRdNpoazLNtDFGy4">
-        Felipe Bueno 
+        Felipe Bueno  
         </a>
-      
+             
       </p>
     </FooterBase>
   );
